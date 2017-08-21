@@ -489,8 +489,9 @@ A curated list of awesome Java frameworks, libraries and software.
 
 * [Avian](https://github.com/ReadyTalk/avian) - JVM with both JIT and AOT modes. Includes an iOS port.
 * [JDK 9](https://jdk9.java.net/) - Early-access releases of JDK 9.
-* [OpenJDK](http://openjdk.java.net/) - Open-source implementation for Linux.
+* [OpenJDK](http://openjdk.java.net/) - Open-source reference implementation of Java (6, 7, 8, 9, 10).
 * [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) - VM with non-blocking, concurrent GC for iOS.
+* [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/) - OpenJDK builds for Windows (Linux are included in software repositories).
 * [Zulu OpenJDK 9](http://zulu.org/zulu-9-pre-release-downloads/) - Early-access OpenJDK 9 builds for Windows, Linux, and Mac OS X.
 * [Zulu OpenJDK](http://www.azul.com/downloads/zulu/) - OpenJDK builds for Windows, Linux, and Mac OS X through Java 8.
 
